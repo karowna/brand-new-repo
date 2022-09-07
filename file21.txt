@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 This is an edited Document
 
 asd
@@ -13,10 +13,10 @@ asdasd
 
 
 asdasd
-=======
+======================
 hello
 hello hello
 hello hello hello
 hello hello hello hello
 hello hello hello hello hello
->>>>>>> 518f061d316d6009c0712a79c0f3aab69c76c4d7
+>>>>>>>
